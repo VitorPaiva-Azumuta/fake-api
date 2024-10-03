@@ -8,5 +8,15 @@
         "id": "000000000001",
         "result": 10
       }
+    ],
+    "errors": [
+        {
+          "id": "000000000002",
+          "detail": "ErrorDetail",
+          "instance": "ErrorInstance",
+          "status": 400,
+          "title": "ErrorTitle",
+          "type": "ErrorType"
+        }   
     ]
   }
